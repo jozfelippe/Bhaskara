@@ -1,2 +1,2 @@
 # Bhaskara
-Exercício Bhaskara 06/05/2022
+Bhaskara atividade 03/05/2022
